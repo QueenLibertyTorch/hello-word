@@ -1,8 +1,10 @@
 # hello-word
+
 NU THAN TU DO
 
-GUOM THIENG AI QUOC NGON DUOC NU THAN LUA THIENG TU BI
-TOA SANG KHAP NOI MANG DEN HOA BINH THE GIOI TU DO
-MOI NGUOI HANH PHUC.
+
+Guom Thien Ai Quoc.Ngon Duoc Nu Than.Lua Thieng.Tu
+Bi.Toa Sang Khap Noi.Mang Den Hoa Binh.The Gio Tu Do.
+Moi NGuoi Hanh Phuc.
 
 
