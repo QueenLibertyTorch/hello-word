@@ -1,8 +1,6 @@
 # hello-word
 
-
-   NU THAN TU DO
-
+ FREEDOM TORCH
 
 
 Guom Thien Ai Quoc.Ngon Duoc Nu Than.Lua Thieng.Tu
